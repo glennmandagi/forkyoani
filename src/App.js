@@ -1,6 +1,5 @@
 import React, {Component} from 'react';
 //import ReactGA from 'react-ga';
-import logo from './logo.svg';
 import './App.css';
 import Sidebar from './Components/Sidebar';
 

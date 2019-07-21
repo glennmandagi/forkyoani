@@ -1,5 +1,5 @@
 div .container{
-    margin: 100px auto;
+    margin: 0 auto;
     width: 100%;
 }
 
@@ -19,11 +19,11 @@ div .innerCenter{
 }
 
 div .card{
-    margin: 40px auto;
+    margin: 20px auto;
     padding: 50px;
-    width: 50%;
+    width: 60%;
     background: #1A1A22;
-    border-radius: 25px;
+    border-radius: 15px;
 }
 
 .responsive-object{
@@ -44,6 +44,7 @@ div .card{
     color: #ffffff;
     font-size: 1.5em;
     text-align: left;
+    margin: 0;
 }
 
  h2 {
@@ -105,7 +106,7 @@ img.card-logo{
     width: 80%;
     max-width: 300px;
     margin: 10px auto;
-    padding: 30px;
+    padding: 15px;
     background: rgb(255, 255, 255);
     border-radius: 25px;
 }
