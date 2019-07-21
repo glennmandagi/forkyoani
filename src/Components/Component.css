@@ -1,0 +1,111 @@
+div .container{
+    margin: 100px auto;
+    width: 100%;
+}
+
+div .center{
+    width: 100%;
+    text-align: center;
+}
+
+div .share{
+    margin: 0 auto;
+}
+
+div .innerCenter{
+    width: 100%;
+    max-width: 500px;
+    display: inline-block;
+}
+
+div .card{
+    margin: 40px auto;
+    padding: 50px;
+    width: 50%;
+    background: #1A1A22;
+    border-radius: 25px;
+}
+
+.responsive-object{
+    width: 100%;
+    height: 100%;
+}
+.responsive-object iframe {
+    position: relative;
+    height: 500px;
+    max-height: 600px;
+    min-height: 400px;
+    width: 100%;
+    max-width: 400px;
+    overflow: hidden;
+}
+
+ h1 {
+    color: #ffffff;
+    font-size: 1.5em;
+    text-align: left;
+}
+
+ h2 {
+    font-size: 1.0em;
+    text-align: left;
+}
+
+ p {
+    margin: 20px auto;
+    text-align: left;
+    color: #ffffff;
+    font-size: 0.8em;
+}
+
+a:link {
+    color: #00aced;
+}
+a {
+    color: #1dcaff;
+    text-decoration: none;
+}
+a:hover {
+    color: rgb(241, 130, 92);
+}
+a:visited {
+    color: #E6511E;
+}
+
+.donations div .hoverTweet{
+    display: none;
+}
+    
+.donations a:hover + div .hoverTweet{
+    display: block;
+}
+
+blockquote .reddit-card{
+    color: #ffffff;
+    background-color:#ffffff;
+}
+
+img{
+    margin: 10px 0;
+    width: 100%;
+    max-width: 400px;
+    border-radius: 15px;
+    display: inline-block;
+}
+
+img.card-logo{
+    height: 100%;
+    max-height: 100px;
+    width:auto;
+    max-width: 220px;
+    border-radius: 0;
+}
+
+.mini-card{
+    width: 80%;
+    max-width: 300px;
+    margin: 10px auto;
+    padding: 30px;
+    background: rgb(255, 255, 255);
+    border-radius: 25px;
+}
